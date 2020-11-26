@@ -2,8 +2,6 @@
 import socket               
 import pickle
 
-#this comment only exists on the develop branch
-
 #server receive data from client and store it in list
 #list is nested list
 def storeData(data):
